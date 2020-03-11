@@ -1,0 +1,14 @@
+Connection has been lost
+
+Server is restarting
+
+Server is full
+
+Too Many people
+
+Connection has been lost.
+Exception Connecting:ReadTimeoutException : null
+Timed Out
+java.net.ConnectException: Connection timed out: no further information:
+Please wait before reconnecting
+Connection timeout
